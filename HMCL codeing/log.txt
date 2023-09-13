@@ -1,0 +1,9 @@
+    Logging.start(Metadata.HMCL_DIRECTORY.resolve("logs"));	        Logging.start(Metadata.HMCL_DIRECTORY.resolve("logs"));
+
+
+    checkJavaFX();	        checkJavaFX();
+    verifyJavaFX();
+    detectFractureiser();	        detectFractureiser();
+
+
+    Launcher.main(args);	        Launcher.main(args); (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.N) {
