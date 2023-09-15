@@ -34,8 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.  
-.idea/misc.xml
-Some generated files are not rendered by default. Learn more about how customized files appear on GitHub.
 
   4 changes: 2 additions & 2 deletions4  
 Boat/build.gradle
