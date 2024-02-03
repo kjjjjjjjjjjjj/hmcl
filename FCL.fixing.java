@@ -1,0 +1,2 @@
+java java java 17 and 18 fixing and running Android: [run in all
+ Android version like Android 7.0 Android 5.0 Android 4.0 and the lower versions of Android and up versions]  set: your location in Android .game/files
